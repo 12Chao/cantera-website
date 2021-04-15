@@ -44,7 +44,7 @@ post on the `Google Users' Group <https://groups.google.com/forum/#!forum/canter
 **CollectionOfMechanisms**: a hub for combustion reaction mechanisms including converted Cantera XML and YAML based mechanisms.
 
 | `Repository <https://github.com/jiweiqi/CollectionOfMechanisms>`__
-| Maintainer(s): Weiqi Ji
+| Maintainer(s): Weiqi Ji, Jeff Santner
 
 ------------
 
@@ -67,6 +67,13 @@ post on the `Google Users' Group <https://groups.google.com/forum/#!forum/canter
 
 | `Repository <https://github.com/Argonne-National-Laboratory/Frhodo>`__
 | Maintainer(s): Travis Sikes, Robert Tranter
+
+------------
+
+**gas-properties**: a python GUI for calculating properties of gases, equilibrium states, and isentropic compression. Similar to unsupported GasEQ software.
+
+| `Repository <https://github.com/jsantner/gas-properties>`__
+| Maintainer(s): Jeff Santner
 
 ------------
 
